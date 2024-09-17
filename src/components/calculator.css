@@ -1,0 +1,57 @@
+*{
+    overflow-y: hidden;
+}
+.fundo{
+    background-image: linear-gradient(90deg,black,rgb(96, 96, 126),rgb(39, 69, 135));
+}
+button{
+    width: 3em;
+    height: 3em;
+    font-size: 1.5em;
+    border: none;
+    border-radius: 3em;
+    margin: 0.3em;
+}
+button:hover{
+    cursor: pointer;
+    
+}
+.wrapper{
+    background-color: rgb(0, 0, 0);
+    border-radius: 3em;
+    padding: 1em;
+
+}
+.SideButton{
+    background-color: #ff9500;
+    color: white;
+}
+.SideButton:hover{
+    background-color:   #81571c;
+}
+.gray{
+    background-color: #505050;
+    color: white;
+}
+.gray:hover{
+    background-color: rgb(117, 89, 89);
+}
+#zero{
+    width: 10rem;
+    text-align: start;
+
+}
+span{
+    padding-left: 20px;
+}
+p{
+    padding-left: 20px;
+}
+.windows{
+    color: white;
+    text-align: end;
+    font-size: 3em;
+}
+.white:hover{
+    background-color: #a74a4a;
+}
